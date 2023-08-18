@@ -1,6 +1,6 @@
-function bookEdit (){
+function BookEdit (){
     return(
         <div>bookEdit</div>
     )
 }
-export default bookEdit;
+export default BookEdit;
